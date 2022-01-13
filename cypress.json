@@ -1,0 +1,10 @@
+{
+  "integrationFolder": "cypress/specs",
+  "video": false,
+  "baseUrl": "http://automationpractice.com",
+  "env": {
+    "email": "mail@2022.com",
+    "password": "Password",
+    "username": "Mail Mail"
+  }
+}
